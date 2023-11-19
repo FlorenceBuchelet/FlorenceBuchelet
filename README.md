@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @FlorenceBuchelet
+- 👀 I’m interested in so many things, I've stopped counting.
+- 🌱 I’m currently learning React and SQL.
+- 💕 I love Clean Code and Accessibility.
+- 📚 I will learn Java and PHP, eventually!
+- 💞️ I’m looking to collaborate on challenging projects.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/florence-buchelet-928a7a228/) [mail](florence.buchelet@gmail.com)
