@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @FlorenceBuchelet
 - 👀 I’m interested in so many things, I've stopped counting.
-- 🌱 I’m currently learning ReactJS and MySQL.
+- 🌱 I’m currently learning ReactJS, PHP and MySQL.
 - 💕 I love Clean Code and Accessibility.
-- 🎨 I can center any div, even though I don't actually use many of them.
-- 📚 I will also master Java and PHP, eventually!
+- 🎨 I can center any div, even though I barely use them.
+- 📚 I will also master Java, eventually!
 - 💞️ I’m looking to collaborate on challenging projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/florence-buchelet-928a7a228/) [mail](florence.buchelet@gmail.com)
 - 🎓 [Here's my curiculum](https://www.linkedin.com/feed/update/urn:li:activity:7145307258904604672/)
