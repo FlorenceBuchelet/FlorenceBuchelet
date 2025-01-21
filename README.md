@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlorenceBuchelet
 - 👀 I’m interested in so many things, I've stopped counting.
-- 🌱 I’m currently learning my way around Remix, Front-Commerce and GraphQL.
+- 🌱 I’m currently learning my way around SolR, Front-Commerce and GraphQL.
 - 💕 I love Clean Code and Accessibility.
 - 🎨 I can center any div, even though I barely use them.
 - 📚 Asking about things is my special interest.
