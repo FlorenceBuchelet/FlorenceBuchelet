@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FlorenceBuchelet
 - 👀 I’m interested in so many things, I've stopped counting.
-- 🌱 I’m currently learning my way around SolR, Front-Commerce and GraphQL.
+- 🌱 I’m always leveling up in TS, PHP and with React, SolR, Front-Commerce and GraphQL.
 - 💕 I love Clean Code and Accessibility.
-- 🎨 I can center any div, even though I barely use them.
+- 🎨 I can center any div, but I priorize *semantics* in HTML.
 - 📚 Asking about things is my special interest.
 - 💞️ I’m looking to collaborate on challenging projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/florence-buchelet-928a7a228/) [mail](florence.buchelet@gmail.com)
