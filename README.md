@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @FlorenceBuchelet
 - 👀 I’m interested in so many things, I've stopped counting.
-- 🌱 I’m always leveling up in TS, PHP and with React, SolR, Front-Commerce and GraphQL.
+- 🌱 My favorite stack is a nice mix of TS, React Router, Strapi et GraphQL.
 - 💕 I love Clean Code and Accessibility.
-- 🎨 I can center any div, but I priorize *semantics* in HTML.
+- 🎨 I work with Sass. I can center any div, but I prioritize *semantics* in HTML.
 - 📚 Asking about things is my special interest.
 - 💞️ I’m looking to collaborate on challenging projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/florence-buchelet-928a7a228/) [mail](florence.buchelet@gmail.com)
-- 🎓 [Here's my curiculum](https://www.linkedin.com/feed/update/urn:li:activity:7145307258904604672/)
+- 🎓 [Here's my portfolio](https://florence.buchelet.fr/)
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 
